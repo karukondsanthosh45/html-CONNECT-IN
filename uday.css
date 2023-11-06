@@ -1,0 +1,133 @@
+.bg {
+    background-image: url("https://cache.careers360.mobi/media/presets/720X480/colleges/social-media/media-gallery/2715/2018/8/2/VCE-Hyderabad11.jpg");
+    background-size: cover;
+}
+
+.card1 {
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    margin: 20px;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: #2acaea;
+    color: white;
+}
+
+.h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+.t1 {
+    font-size: 25px;
+}
+
+.img {
+    height: 55px;
+    width: 70px;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+.bg2 {
+    background-image: url("https://wallpaperaccess.com/full/1428490.jpg");
+    background-size: cover;
+}
+
+.card21 {
+    background-color: white;
+    color: black;
+    margin: 40px;
+    padding: 10px;
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.button2 {
+    color: white;
+    background-color: black;
+    margin: 10px;
+    padding: 5px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.bg3 {
+    background-image: url("https://www.einfochips.com/blog/wp-content/uploads/2018/11/how-to-develop-machine-learning-applications-for-business-featured.jpg");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.bg6 {
+    background-image: url("https://wallpaper.dog/large/5505486.jpg");
+    background-size: cover;
+}
+
+.button3 {
+    color: black;
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.bg8 {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Zg7uAIWafN3V09bPtSIjaArVMvZ0NjAZINzbbKdlDRrnbpK3qLBO5iPMcExMtlNrx0s&usqp=CAU");
+    background-size: cover;
+}
+
+.bga {
+    background-color: #43A5BE;
+    background-size: cover;
+}
+
+.carda {
+    background-color: white;
+    color: black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    height: 35px;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 3.5px;
+}
+
+.h1a {
+    color: white;
+}
+
+.nf {
+    text-align: center;
+}
+
+.pimg {
+    height: 40vh;
+    width: 37vh;
+    margin: 40px;
+}
+
+.bgp {
+    background-color: #6ac5fe;
+    color: white;
+}
+
+.pcard {
+    color: white;
+    margin: 40px;
+    font-size: 30px;
+    font-family: bold;
+}
+
+.imagel {
+    height: 60vh;
+    width: 40vw;
+}
+
+.bgl {
+    background-color: white;
+}
